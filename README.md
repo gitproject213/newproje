@@ -29,7 +29,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Scala](#scala)
-- [Swift](#swift)
+- [Swift](#swift)23467
 - [Additional resources](#additional-resources)
 
 ## C/C++:
